@@ -1,3 +1,3 @@
 # GENAI-MATERIAL
 GENAI-MATERIAL
-Testing - Pipelines
+Testing - CI Pipelines
